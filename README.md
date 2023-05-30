@@ -1,4 +1,11 @@
 # moosiq_project
+![6zNFn7Ke8vne_1024_500](https://github.com/Rifaee123/moosiq_project/assets/119610627/fd8ac774-0b1f-4844-a6b0-e631ad3a46d3)
+![iPhone 14 - 11sp4](https://github.com/Rifaee123/moosiq_project/assets/119610627/df79532e-1334-4b8e-904b-ec09eda90c29)
+![screenshot1](https://github.com/Rifaee123/moosiq_project/assets/119610627/6b5d4c23-09fa-4911-8bf7-0d9d97839a01)
+![screenshot2](https://github.com/Rifaee123/moosiq_project/assets/119610627/801f1c29-d5e8-424a-8b43-4dbabf0e3f0c)
+![screenshot3](https://github.com/Rifaee123/moosiq_project/assets/119610627/dc4a3d73-9ce3-4b5e-9243-d1edeaf73a86)
+![screenshot4](https://github.com/Rifaee123/moosiq_project/assets/119610627/1a46dc5a-dfdf-45f8-8706-cefdce27b1b8)
+![my app](https://github.com/Rifaee123/moosiq_project/assets/119610627/505e9707-d3ce-432f-9b82-ddb9681926d6)
 
 "Moosiq" is an offline music player app designed to provide a delightful and intuitive user experience. With its beautiful user interface, the app aims to offer a seamless music playback experience while providing various features to enhance the user's music listening journey.
 
